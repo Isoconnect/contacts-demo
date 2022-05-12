@@ -1,6 +1,6 @@
 # Contact Manager
 
-Interview application for IsoTalent
+Interview application for IsoTalent :)
 
 ### Build the code
 
